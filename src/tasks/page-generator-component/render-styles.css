@@ -1,0 +1,70 @@
+/* AI GENERATED  */
+
+body {
+    font-family: 'San Francisco', sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+}
+
+.container {
+    max-width: 90%;
+    margin: 0 auto;
+    padding: 20px;
+}
+input {
+    border: 1px solid #333;
+}
+button {
+    border: 1px solid #333;
+    background-color: #333;
+    color: #fff;
+    margin-left: 10px;
+    padding: 0 10px;
+    cursor: pointer;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+main {
+    display: inline-flex;
+    width: 60%;
+    margin: 20px 0;
+}
+
+main p {
+    font-size: 1em;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+aside {
+    display: inline-flex;
+    background-color: #f0f0f0;
+    width: 30%;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer-link {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
