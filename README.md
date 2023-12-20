@@ -1,11 +1,17 @@
 ## HOW TO RUN THE APP -->
 
-#### RUN THE FOllOWING COMMAND
+##### Install the dependencies by running the following command in the terminal
 
-npm install
+"npm install"
 
-#### START THE APP
 
-npm run dev
+##### Start the app by typing the following command in the terminal
 
-###### Uncomment one of the three tasks importent in the App.tsx
+"npm run dev"
+
+##### go to the following url
+
+http://localhost:3000
+
+
+###### Uncomment one of the three tasks imported in the App.tsx
