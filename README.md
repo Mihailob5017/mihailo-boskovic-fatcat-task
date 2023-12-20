@@ -1,11 +1,11 @@
-### HOW TO RUN THE APP -->
+## HOW TO RUN THE APP -->
 
-# RUN THE FOllOWING COMMAND
+#### RUN THE FOllOWING COMMAND
 
 npm install
 
-# START THE APP
+#### START THE APP
 
 npm run dev
 
-# Uncomment one of the three tasks importent in the App.tsx
+###### Uncomment one of the three tasks importent in the App.tsx
